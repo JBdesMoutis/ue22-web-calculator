@@ -29,4 +29,10 @@ for (let keys of bouton.children) {
             affichage.textContent += keys.textContent}
         
     })
+
+    
+
+
 }
+
+
